@@ -18,8 +18,8 @@ print(list)
 # I am learning R
 
 # 5. Create strings firstname and lastname as “MyName” and “MySurname” 
-firstname = "Vaibhav"
-lastname = "Tandon"
+firstname = "MyName"
+lastname = "MySurname"
 firstname
 lastname
 
